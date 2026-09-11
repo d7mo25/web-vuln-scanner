@@ -112,9 +112,7 @@ pytest tests/ -v
 - [ ] Add a `--format` flag for Markdown output
 - [ ] Docker image for easy CI integration
 
-## License
 
-MIT — see [LICENSE](LICENSE).
 
 ## Disclaimer
 
